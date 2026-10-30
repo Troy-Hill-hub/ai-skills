@@ -1,0 +1,3 @@
+-r requirements.txt
+pypdfium2>=4
+Pillow>=10

@@ -1,0 +1,4 @@
+interface:
+  display_name: "文献 SI 下载与核验"
+  short_description: "批量下载文献补充信息，复用浏览器访问权限，核验并按原论文名归档"
+  default_prompt: "请使用 $download-literature-si 为指定文献文件夹下载 SI，核验对应关系并按 SI-原始论文名保存。"
